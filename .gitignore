@@ -1,0 +1,45 @@
+
+# Build directories
+src/bin/
+src/obj/
+src/publish/
+src/output/
+src/output;C/
+output/
+
+# User-specific configuration files
+*.user
+*.suo
+
+# Debug and log files
+*.log
+*.cache
+*.pdb
+
+# IDE and environment settings
+.vs/
+.vscode/
+.idea/
+
+# Compiled binaries and executables
+*.exe
+*.dll
+
+# Temporary and backup files
+*.tmp
+*.temp
+*~
+*.bak
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Solution-specific files
+*.dbmdl
+*.sln.docstates
+
+# Ignore Docker publish and temporary files
+docker-publish/
+*.publish.xml

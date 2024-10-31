@@ -1,0 +1,25 @@
+# Exclude build artifacts
+src/**/bin/
+src/**/obj/
+
+# Exclude user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Exclude version control directories and files
+.git/
+.gitignore
+
+# Exclude documentation files if not needed in the container
+src/**/*.md
+README.md
+
+# Exclude temporary files
+*.log
+*.tmp
+
+# Exclude output foler
+/output
+src/output

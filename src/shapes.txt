@@ -1,0 +1,5 @@
+Exported Shapes Details - 31/10/2024 01:06:11
+
+Triangle with parameters: 3, 4, 5
+Rectangle with parameters: 5, 10
+Circle with parameters: 7
